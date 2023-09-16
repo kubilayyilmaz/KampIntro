@@ -28,6 +28,8 @@
             //sayilar2 (102)        [100, 200, 300] (102)
             //sayilar1 = sayilar2 dediğimiz zaman sayilar1'in adresi 102 olur.
 
+
+
         }
     }
 }
